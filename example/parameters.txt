@@ -1,0 +1,2 @@
+taxonomy	plugins/Tax2Tree/example/test_consistency.ntree
+consensus	plugins/Tax2Tree/example/test_consistency.cons
