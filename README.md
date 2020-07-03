@@ -1,7 +1,9 @@
+# Tax2Tree
 # Language: C++
 # Input: TXT
 # Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: t2t 1.0
 
 PluMA plugin that uses Tax2Tree (McDonald et al, 2011) to output a phylogenetic
 tree given a taxonomy and consensus sequences.
